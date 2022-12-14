@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nfolder2",
-    "slug": "nfolder2",
+    "name": "car",
+    "slug": "car",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
